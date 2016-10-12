@@ -1,0 +1,109 @@
+.form-box .inp-top .t{
+	display: none;
+	width: 12px;
+    height: 13px;
+    position: absolute;
+    right: -15px;
+    top: 10px;
+    background: url(../img/reg2.png);
+    background-position: -252px -123px;
+}
+.form-box .inp-top .reg-inp4{
+	width: 148px;
+	height: 36px;
+    position: relative;
+    margin-bottom: 18px;
+    background:none;
+}
+.form-box .inp-top .reg-inp4 .yzm-box{
+	position: absolute;
+    top: 6px;
+    left: 160px;
+}
+.form-box .inp-top .reg-inp4 .yzm-box .yzm-img{
+	cursor:pointer;
+}
+.form-box .inp-top .reg-inp4 .yzm-box .yzm-btn{
+	display: inline-block;
+    position: relative;
+    top: -23px;
+    left: 73px;
+    width: 60px;
+}
+.form-box .inp-top .reg-inp4 .yzm-box .yzm-btn a:hover{
+	color:#FF6A00
+}
+.form-box .inp-top .reg-inp4 input{
+	float: left;
+	width: 146px;
+	height: 32px;
+}
+
+.form-box .inp-top .pro-true{
+	width: auto;
+    height: auto;
+    display: block;
+    margin-bottom: 10px;
+}
+.form-box .inp-top .pro-true input{
+	margin-right: 6px;
+    position: relative;
+    top: 2px;
+}
+.form-box .inp-top .pro-true a{
+	color: #3b639f;
+}
+.form-box .inp-top .pro-true a:hover{
+	color: #FF6A00;
+}
+.form-box .inp-top .reg-btn button{
+	width: 270px;
+    height: 36px;
+    border: 0;
+    overflow: hidden;
+    display: block;
+    cursor: pointer;
+    font-size: 18px;
+    color: #fff;
+    line-height: 33px;
+    background: url(../img/reg.png);
+    background-position: 0 0;
+    font-family: "Microsoft Yahei";
+}
+.form-box .inp-top .reg-btn:hover button{
+	background-position: 0 -36px;
+}
+.form-box .inp-top .login-box{
+	font-size: 14px;
+    width: 270px;
+    height: auto;
+    border-top: #eaeaea 1px solid;
+    position: absolute;
+    bottom: 10px;
+    padding-top: 10px;
+    line-height: 25px;
+}
+.form-box .inp-top .login-box a{
+	width: auto;
+    height: 40px;
+    text-align: center;
+    line-height: 20px;
+    font-size: 14px;
+    color: #3d90cb;
+    position: relative;
+}
+.form-box .inp-top .login-box a i{
+	position: absolute;
+    top: 2px;
+    left: 58px;
+    background: url(../img/reg.png);
+    background-position: 0 -154px;
+    width: 8px;
+    height: 16px;
+}
+.form-box .inp-top .login-box a:hover{
+	color:#FF6A00;
+}
+.form-box .inp-top .login-box a:hover i{
+	background-position: -9px -154px;
+}    

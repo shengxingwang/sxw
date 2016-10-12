@@ -1,0 +1,25 @@
+[
+	[
+		{"imgSrc":"img/phone21.jpg","tit":"M6 Plus","desc":"6020毫安电池、硬件加密","price":"2999"},
+		{"imgSrc":"img/phone22.jpg","tit":"M6 Plus","desc":"6020毫安电池、硬件加密","price":"2999"},
+		{"imgSrc":"img/phone23.jpg","tit":"M6 Plus","desc":"6020毫安电池、硬件加密","price":"2999"},
+		{"imgSrc":"img/phone24.jpg","tit":"M6 Plus","desc":"6020毫安电池、硬件加密","price":"2999"}
+	],
+	[
+		{"imgSrc":"img/phone31.jpg","tit":"M6 Plus","desc":"6020毫安电池、硬件加密","price":"2999"},
+		{"imgSrc":"img/phone32.jpg","tit":"M6 Plus","desc":"6020毫安电池、硬件加密","price":"2999"},
+		{"imgSrc":"img/phone33.jpg","tit":"M6 Plus","desc":"6020毫安电池、硬件加密","price":"2999"}
+	],
+	[
+		{"imgSrc":"img/phone41.jpg","tit":"M6 Plus","desc":"6020毫安电池、硬件加密","price":"2999"},
+		{"imgSrc":"img/phone42.jpg","tit":"M6 Plus","desc":"6020毫安电池、硬件加密","price":"2999"},
+		{"imgSrc":"img/phone43.jpg","tit":"M6 Plus","desc":"6020毫安电池、硬件加密","price":"2999"},
+		{"imgSrc":"img/phone44.jpg","tit":"M6 Plus","desc":"6020毫安电池、硬件加密","price":"2999"}
+	],
+	[
+		{"imgSrc":"img/phone51.jpg","tit":"M6 Plus","desc":"6020毫安电池、硬件加密","price":"2999"},
+		{"imgSrc":"img/phone52.jpg","tit":"M6 Plus","desc":"6020毫安电池、硬件加密","price":"2999"},
+		{"imgSrc":"img/phone53.jpg","tit":"M6 Plus","desc":"6020毫安电池、硬件加密","price":"2999"},
+		{"imgSrc":"img/phone54.jpg","tit":"M6 Plus","desc":"6020毫安电池、硬件加密","price":"2999"}
+	]
+]

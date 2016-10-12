@@ -1,0 +1,132 @@
+/*-----------------top---------------------*/
+.bg-box{
+	width: 100%;
+    height: auto;
+    min-width: 960px;
+    padding-bottom: 39px;
+    background: url(../img/bg.jpg) no-repeat center 91px;;
+}
+.content{
+	width: 960px;
+    height: auto;
+    margin: 0 auto;
+}
+.top{
+	width: auto;
+    height: 91px;
+    background: #fff;
+    border-bottom: #eaeaea 1px solid;
+}
+.top .logo-box{
+	width: 960px;
+    height: auto;
+    margin: 0 auto 18px;
+}
+.top .logo-box a{
+	float: left;
+}
+/*-----------------login---------------------*/
+.txt-box{
+	padding:30px 0;
+	width: 960px;
+    height: 590px;
+    margin: 0 auto;
+    padding: 30px 0
+}
+.txt-box .adv{
+	float: left;
+	width: 580px;
+    height: 534px;
+    font-size: 0;
+    line-height: 0;
+    display: block;
+}
+.txt-box .form-box{
+	float: right;
+	width: 299px;
+    height: 532px;
+    border: #DDD 1px solid;
+    background: #fff;
+    padding-left:29px;
+}
+.form-box .inp-box{
+	width: 270px;
+    height: 518px;
+    position: relative;
+    background: #fff;
+}
+.form-box .inp-top{
+	width: auto;
+	height: auto;
+	margin: 0 auto;
+    padding-top: 20px;
+}
+.form-box .inp-top h2{
+	font-size: 20px;
+    color: #ef4222;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+.form-box .inp-top .reg-tit{
+	border: none;
+    background: none;
+    height: 20px;
+    width: 100%;
+    margin-bottom: 1px;
+    font-size: 14px;
+    line-height: 20px;
+}
+.form-box .inp-top li{
+	width: 270px;
+    height: 36px;
+    margin-bottom: 16px;
+    position: relative;
+    border: 1px solid #ccc;
+    border-radius:3px;
+}
+.form-box .inp-top ul li input{
+	outline: 0;
+	width: 264px;
+    height: 32px;
+    position: absolute;
+    left: 2px;
+    top: 1px;
+    line-height: 32px;
+    z-index: 50;
+    border:0;
+    font-size: 14px;
+    color: #333;
+}
+.form-box .inp-top .tip{
+	display:none;
+	color: #999;
+	width: 244px;
+    height: 28px;
+    position: absolute;
+    left: 0px;
+    top: 30px;
+    line-height: 28px;
+    font-size: 12px;
+}
+/*-----------------footer---------------------*/
+.footer{
+	border-top: #ddd 1px solid;
+    background: #FFF;
+}
+.footer .copyright{
+	width: 100%;
+    height: auto;
+    min-width: 960px;
+    text-align: center;
+    border-top: #fff 1px solid;
+    line-height: 180%;
+    padding: 10px 0 40px;
+    color: #666;
+}
+.footer .copyright a{
+	color:#666;
+}
+.sep{
+	margin: 0 5px;
+    color: #CCC;
+}
