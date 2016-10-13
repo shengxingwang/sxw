@@ -1,0 +1,17 @@
+[
+	[
+		{"imgSrc":"img/phone1.jpg"},
+		{"imgSrc":"img/phone2.jpg"},
+		{"imgSrc":"img/phone3.jpg"},
+		{"imgSrc":"img/phone4.jpg"},
+		{"imgSrc":"img/phone5.jpg"}
+	],
+	[
+		{"imgSrc":"img/match1.jpg"},
+		{"imgSrc":"img/match2.jpg"},
+		{"imgSrc":"img/match3.jpg"},
+		{"imgSrc":"img/match4.jpg"},
+		{"imgSrc":"img/match5.jpg"},
+		{"imgSrc":"img/match6.jpg"}
+	]
+]
